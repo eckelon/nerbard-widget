@@ -40,7 +40,7 @@ render: (output) ->
 style: """
   -webkit-font-smoothing: antialiased
   color: #D5C4A1
-  font: 14px SF Mono
+  font: 14px Menlo 
   right: 300px
   top: 10px
   span

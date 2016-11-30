@@ -34,7 +34,7 @@ render: (output) ->
 style: """
   -webkit-font-smoothing: antialiased
   color: #D6E7EE
-  font: 14px SF Mono
+  font: 14px Menlo 
   height: 25px
   left: 10px
   overflow: hidden
